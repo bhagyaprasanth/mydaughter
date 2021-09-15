@@ -1,1 +1,3 @@
 # mydaughter
+For my daughter to add 2 numbers whose sum is less than 100
+Using PHP....
